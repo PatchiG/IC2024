@@ -1,0 +1,11 @@
+name: IC2024
+channels:
+  - defaults
+dependencies:
+  - pandas==1.5.2
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - scipy
+  - notebook
+prefix: /Users/patchi.g/anaconda3/envs/IC2024
